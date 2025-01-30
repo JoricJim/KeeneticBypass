@@ -12,7 +12,7 @@
 *tiktokv.us
 *tiktokw.us
 
-[netflix]
+[Netflix]
 netflix.ca
 netflix.com
 netflix.com.au
@@ -29,12 +29,7 @@ netflixdnstest9.com
 netflixinvestor.com
 netflixstudios.com
 
-[copilot]
-copilot-telemetry.githubusercontent.com
-copilot-proxy.githubusercontent.com
-githubcopilot.com
-
-[discord]
+[Discord]
 dis.gd
 discord-attachments-uploads-prd.storage.googleapis.com
 discord-activities.com
@@ -60,7 +55,7 @@ discordsays.com
 discordsez.com
 discordstatus.com
 
-[docker]
+[Docker]
 hub.docker.com
 docker.elastic.co
 desktop.docker.com
@@ -71,7 +66,7 @@ docker.io
 registry-1.docker.io
 auth.docker.io
 
-[games]
+[Games]
 game.brawlstarsgame.com
 ingest.sentry.io
 game-assets.clashofclans.com
@@ -84,7 +79,7 @@ brawlstars.com
 .wbinsights.com
 wbgames.com
 
-[ai]
+[Ai]
 ab.chatgpt.com
 api.openai.com
 arena.openai.com
@@ -116,8 +111,12 @@ platform.openai.com
 spinningup.openai
 chat.openai.com
 chatgpt.com
+copilot-telemetry.githubusercontent.com
+copilot-proxy.githubusercontent.com
+githubcopilot.com
+elevenlabs.io
 
-[instagram]
+[Instagram]
 cdninstagram.com
 instagram.com
 threads.net
@@ -195,7 +194,7 @@ onlineinstagram.com
 web-instagram.net
 wwwinstagram.com
 
-[facebook]
+[Facebook]
 facebook.com
 accountkit.com
 atdmt.com
@@ -213,7 +212,7 @@ m.me
 messenger.com
 msngr.com
 
-[twitter]
+[Twitter]
 t.co
 twimg.com
 twitter.com
@@ -225,7 +224,7 @@ twttr.net
 twttr.com
 abs.twimg.com
 
-[torrent]
+[Torrent]
 rutor.info
 rutor.is
 rutracker.net
@@ -235,7 +234,7 @@ rutrk.org
 rutracker.org
 rutor.org
 
-[adobe]
+[Adobe]
 adobe.com
 firewall-prod-cloud.aem.adobe.com
 foxs.campaign.adobe.com
@@ -290,7 +289,7 @@ smp.adobe.io
 smtp.adobe.io
 stream.adobe.io
 
-[spotify]
+[Spotify]
 pscdn.co
 scdn.co
 spoti.fi
@@ -313,23 +312,23 @@ spotify.map.fastly.net
 spotify.map.fastlylb.net
 
 [Other]
-*patreon.com
-*metacritic.com
-*soundcloud.com
-*nyaa.si
-*kino.pub
-*lolz.guru
-*mongodb.com
-*mongodb.org
-*habr.com
-*deezer.com
-*elevenlabs.io
-*amnezia.org
-*anidub.com
-*anilibria.tv
-*appstorrent.ru
-*amnimego.org
-*amnimego.me
-*canva.com
-*capcut.com
-*pornhub.com
+patreon.com
+metacritic.com
+soundcloud.com
+nyaa.si
+mongodb.com
+mongodb.org
+habr.com
+deezer.com
+elevenlabs.io
+amnezia.org
+anidub.com
+anilibria.tv*
+appstorrent.ru
+amnimego.org
+amnimego.me
+canva.com
+capcut.com
+rt.pornhub.com
+kino.pub
+lolz.guru
